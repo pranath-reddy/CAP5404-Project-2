@@ -8,5 +8,5 @@ In this project, we will be exploring the application of machine learning to com
 
 ## Report and Demo 
   
-[Report]()  
+[Report](https://github.com/pranath-reddy/CAP5404-Project-2/blob/main/Report.pdf)  
 [Demo](https://youtu.be/mo_ucC4SbiE)
